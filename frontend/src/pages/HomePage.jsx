@@ -183,7 +183,7 @@ const HomePage = () => {
               {/* Category Filter */}
               <div className="animate-fade-in-up" style={{ animationDelay: '0.6s' }}>
                 <label className="block text-sm font-semibold text-slate-700 mb-2">
-                  Category (Optional)
+                  Category 
                 </label>
                 <div className="relative">
                   <Filter className="absolute left-4 top-1/2 transform -translate-y-1/2 h-5 w-5 text-slate-400" />
