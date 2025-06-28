@@ -34,7 +34,7 @@ This command connects MindsDB to your Google Sheet, allowing it to access the bo
 CREATE DATABASE book_sheet_1000
 WITH ENGINE = "sheets",
 PARAMETERS = {
-  "spreadsheet_id": "YOUR_GOOGLE_SHEET_ID",
+  "spreadsheet_id": "YOUR_GOOGLE_SHEET_ID", --the sheet id you got from google sheets
   "sheet_name": "book_dataset"
 };
 ```
@@ -208,4 +208,4 @@ DROP DATABASE IF EXISTS book_sheet_1000;
 
 ## Next Steps
 
-Once you have completed the MindsDB setup, please refer back to the main `README.md` for instructions on configuring and running the backend and frontend components of the Book Aura application.
+The app should run as shown in the demo videos if everthing is done following the readme instructions.
