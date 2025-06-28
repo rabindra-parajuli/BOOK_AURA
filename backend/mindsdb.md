@@ -208,4 +208,4 @@ DROP DATABASE IF EXISTS book_sheet_1000;
 
 ## Next Steps
 
-The app should run as shown in the demo videos if everthing is done following the readme instructions.
+The app should run as shown in the demo video if everthing is done following the given instructions.

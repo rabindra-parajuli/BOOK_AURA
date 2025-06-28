@@ -5,7 +5,7 @@ import time
 import json
 import numpy as np # For np.mean
 from collections import defaultdict
-import mindsdb_sdk # New import for direct MindsDB connection
+import mindsdb_sdk  # New import for direct MindsDB connection
 import logging # For logging MindsDB connection status
 
 # --- Configuration ---
