@@ -135,6 +135,13 @@ cd BOOK_AURA
 
 -----
 
+
+## 📘 Dev.to Article
+
+🔗 [Read the article on Dev.to](https://dev.to/rabindra_parajuli/intelligent-book-discovery-with-book-aura-mindsdb-4m5k)
+
+-----
+
 ## Screenshots
 
 ## landing page
